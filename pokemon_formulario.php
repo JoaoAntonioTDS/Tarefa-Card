@@ -41,16 +41,11 @@
         button {
             width: 100%;
             padding: 10px;
-            background-color: #4CAF50;
             color: white;
             border: none;
             font-size: 16px;
             border-radius: 5px;
             cursor: pointer;
-        }
-
-        button:hover {
-            background-color: #45a049;
         }
     </style>
 </head>
